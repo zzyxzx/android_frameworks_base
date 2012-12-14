@@ -154,6 +154,17 @@
     <string name="global_actions" product="default" msgid="2406416831541615258">"電話選項"</string>
     <string name="global_action_lock" msgid="2844945191792119712">"螢幕鎖定"</string>
     <string name="global_action_power_off" msgid="4471879440839879722">"關機"</string>
+    <string name="reboot_system" product="tablet">重新啟動平板電腦</string>
+    <string name="reboot_system" product="default">重新啟動手機</string>
+    <string name="global_action_screenshot">"屏幕截圖"</string>
+    <string name="reboot_reboot">"重新啟動"</string>
+    <string name="reboot_recovery">"恢復模式"</string>
+    <string name="reboot_bootloader">"Bootloader"</string>
+    <string name="reboot_bootmenu">"引導菜單"</string>
+    <string name="reboot_fastboot">"Fastboot 模式"</string>
+    <string name="reboot_download">"下載模式"</string>
+    <string name="reboot_progress">"正在重新啟動..."</string>
+    <string name="reboot_confirm">"您的手機會重新啟動。"</string>
     <string name="global_action_toggle_silent_mode" msgid="8219525344246810925">"靜音模式"</string>
     <string name="global_action_silent_mode_on_status" msgid="3289841937003758806">"音效已關閉"</string>
     <string name="global_action_silent_mode_off_status" msgid="1506046579177066419">"音效已開啟"</string>
